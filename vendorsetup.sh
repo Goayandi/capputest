@@ -1,0 +1,3 @@
+add_lunch_combo full_cappu-user
+add_lunch_combo full_cappu-userdebug
+add_lunch_combo full_cappu-eng
